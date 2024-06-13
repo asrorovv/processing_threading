@@ -1,0 +1,3 @@
+
+python django n45 start_date at 31 january
+python advanced 5 month
